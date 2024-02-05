@@ -1,0 +1,20 @@
+.bindable-content {
+    background-color: #f1f1f1;
+    border: 2px solid #fff;
+    position: relative;
+}
+
+.bindable-content label {
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.bindable-content p{
+    margin-top:5px;
+    margin-left: 10px;
+    font-weight: 500;    
+}
+
+.submit-button-wrapper{
+    text-align: right;
+}
